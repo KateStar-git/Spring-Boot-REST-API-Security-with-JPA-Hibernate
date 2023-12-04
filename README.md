@@ -24,4 +24,4 @@ The corresponding method calls in the Dao classes:
 UserDao
 UserDaoImpl
 
- ### Following Spring Boot 3 and Spring 6 & Hibernate Curse(Udemy) by Chad Darby
+ ###Following Spring Boot 3 and Spring 6 & Hibernate Curse(Udemy) by Chad Darby
