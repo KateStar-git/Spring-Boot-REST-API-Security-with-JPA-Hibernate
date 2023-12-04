@@ -1,5 +1,5 @@
 # Spring-Boot-REST-API-Security-with-JPA-Hibernate
-It shows how to secure  a Spring Boot REST API with Spring Security using JPA/Hibernate.
+It shows how to secure  a Spring Boot REST API with Spring Security (custom tables) using JPA/Hibernate.
 
 ## Database scripts(using MySql)
 The first script adds sample employees to the database which is my sample data for
